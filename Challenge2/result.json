@@ -1,0 +1,10 @@
+{
+    "rgname": [
+        "resourcegroup1",
+        "resourcegroup2"
+    ],
+    "rglocation": [
+        "eastus",
+        "eastus"
+    ]
+}
